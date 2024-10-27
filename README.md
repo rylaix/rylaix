@@ -3,6 +3,7 @@
 🤖 **AI Enthusiast** | Passionate about Artificial Intelligence and building innovative projects in my spare time.  
 🎮 **Gamer at heart** | Always diving into virtual worlds when I'm not coding.  
 🎶 **Music Producer** | Crafting beats and experimenting with sound when I need a creative break.
+👨‍💼 **Team Lead** | At startapp [Potok](potokyou.com)
 
 ---
 
