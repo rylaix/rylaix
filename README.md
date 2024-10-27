@@ -4,7 +4,7 @@
 🎮 **Gamer at heart** | Always diving into virtual worlds when I'm not coding.  
 🎶 **Music Producer** | Crafting beats and experimenting with sound when I need a creative break.
 
-👨‍💼 **Team Lead** | At startapp [Potok](potokyou.com)
+👨‍💼 **Team Lead** | At startapp [Potok](https://potokyou.com)
 
 ---
 
