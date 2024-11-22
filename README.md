@@ -10,7 +10,7 @@
 
 ### 🔧 **Skills & Tech Stack**  
 - **Languages**: Python, JavaScript and a bit of C/C++  
-- **Frameworks**: Django, Flask, Quart (Async alternative for Flaask)
+- **Frameworks**: Django, Flask, Quart (Async alternative for Flask)
 - **AI Tools**: TensorFlow, PyTorch
 - **Blockchain**: Web3.py, Dune
 - **Databases**: PostgreSQL, SQLite, MySQL, MongoDB
